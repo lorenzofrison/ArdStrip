@@ -1,4 +1,4 @@
 # ArdStrip 
 
-## Desctription
+## Description
 
